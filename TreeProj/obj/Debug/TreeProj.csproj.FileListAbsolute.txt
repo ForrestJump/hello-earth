@@ -1,6 +1,0 @@
-C:\Dokument\Mina dokument\Visual Studio 2015\Projects\TreeProj\TreeProj\bin\Debug\TreeProj.exe.config
-C:\Dokument\Mina dokument\Visual Studio 2015\Projects\TreeProj\TreeProj\bin\Debug\TreeProj.exe
-C:\Dokument\Mina dokument\Visual Studio 2015\Projects\TreeProj\TreeProj\bin\Debug\TreeProj.pdb
-C:\Dokument\Mina dokument\Visual Studio 2015\Projects\TreeProj\TreeProj\obj\Debug\TreeProj.csprojResolveAssemblyReference.cache
-C:\Dokument\Mina dokument\Visual Studio 2015\Projects\TreeProj\TreeProj\obj\Debug\TreeProj.exe
-C:\Dokument\Mina dokument\Visual Studio 2015\Projects\TreeProj\TreeProj\obj\Debug\TreeProj.pdb
